@@ -1,0 +1,5 @@
+E:\代码库\C#\EventTest\bin\Debug\EventTest.exe
+E:\代码库\C#\EventTest\bin\Debug\EventTest.pdb
+E:\代码库\C#\EventTest\obj\Debug\EventTest.csprojResolveAssemblyReference.cache
+E:\代码库\C#\EventTest\obj\Debug\EventTest.exe
+E:\代码库\C#\EventTest\obj\Debug\EventTest.pdb
